@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx",
+    "xy",
+    " y"
+  ],
+
+  "key":
+  {
+    "x":
+    {
+      "item":"creation:marvel_ingot"
+    },
+    "y":
+    {
+      "item":"minecraft:stick"
+    }
+
+  },
+  "result":
+  {
+    "item":"creation:marvel_axe",
+    "count":1
+  }
+}

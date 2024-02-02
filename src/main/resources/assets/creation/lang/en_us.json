@@ -1,0 +1,29 @@
+{
+  "item.creation.marvel_sword": "奇迹之剑",
+  "item.creation.marvel_axe": "奇迹之斧",
+  "item.creation.marvel_pickaxe": "奇迹之镐",
+  "item.creation.marvel_shovel": "奇迹之锹",
+  "item.creation.marvel_hoe": "奇迹之锄",
+  "item.creation.marvel_helmet": "奇迹头盔",
+  "item.creation.marvel_chestplate": "奇迹胸甲",
+  "item.creation.marvel_leggings": "奇迹护腿",
+  "item.creation.marvel_boots": "奇迹靴子",
+  "item.creation.marvel_ingot": "奇迹锭",
+
+  "item.creation.vampire_sword": "吸血之剑",
+  "item.creation.unique_bow": "独特的弓",
+  "item.creation.custome_bow": "普通的弓",
+
+  "item.creation.star": "星",
+
+  "block.creation.marvel_ore": "奇迹矿石",
+  "block.creation.jump_block": "跳跃方块",
+  "block.creation.run_block": "奔跑方块",
+
+  "enchantment.creation.vampire": "吸血",
+  "enchantment.creation.super_sharpness": "超级锋利",
+  "enchantment.creation.cobweb_walker": "蛛网行者",
+
+  "itemGroup.ItemTab": "作品-物品",
+  "itemGroup.ToolTab": "作品-工具"
+}

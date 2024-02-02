@@ -1,0 +1,6 @@
+{
+  "parent": "creation:item/unique_bow",
+  "textures": {
+    "layer0": "creation:item/unique_bow_pulling_2"
+  }
+}

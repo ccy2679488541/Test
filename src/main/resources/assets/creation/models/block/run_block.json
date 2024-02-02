@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "top": "creation:block/run_block_top",
+    "bottom": "creation:block/run_block_other",
+    "side": "creation:block/run_block_other"
+  }
+}
